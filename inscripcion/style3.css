@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    background-image: url(../Imagenes/fondo-cartas-tarot-dibujadas-mano_79603-2056.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.form-container{
+    position: absolute;
+    top: 10rem;
+    left: 40rem;
+    width: 50%;
+    background-color: beige;
+}
